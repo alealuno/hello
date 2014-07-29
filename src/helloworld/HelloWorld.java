@@ -17,7 +17,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Ola Mundo Maravilhoso!!!");
+        System.out.println("Ola Mundo Maravilhoso! Sou outro usuário!!!");
     }
     
 }
